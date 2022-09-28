@@ -8,6 +8,6 @@ I'm Jorge Silva and this is my GitHub profile. 😊
 <a href="https://github.com/jlsilva01/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jlsilva01&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/jlsilva01/convoychat">
+<a href="https://github.com/jlsilva01/sql-azure-satc">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jlsilva01&repo=sql-azure-satc" />
 </a>
