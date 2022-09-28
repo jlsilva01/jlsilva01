@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jorge Silva and this is my GitHub profile. 😊 
+I'm Jorge L. Silva and this is my GitHub profile. 😊 
 
 
 <br />
